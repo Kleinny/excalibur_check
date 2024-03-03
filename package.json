@@ -1,0 +1,20 @@
+{
+  "name": "excalibur_check", 
+  "version": "1.0.0", 
+  "description": "Password Strength Checker is a lightweight JavaScript library for evaluating the strength of passwords based on various criteria such as length, presence of lowercase and uppercase letters, numbers, and symbols.", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kleinny/excalibur_check.git" 
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "", 
+  "license": "MIT"
+}
